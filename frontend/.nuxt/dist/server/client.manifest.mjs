@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/danat/CS/ai-job-recommender/frontend/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
